@@ -96,7 +96,16 @@ Run the EL client
 
 ## Future Plans
 
-I plan to study the op
--stack more extensively and contribute to the
-ethereum optimism repo as well as
-build upon the current rollup spin up to be production ready with great usecase.
+- Study the op stack more extensively and contribute to the
+ethereum optimism repo
+- Introduce new smart contract features and functionalities
+- Enhance developer tools and documentation for improved user experience
+- Launch incentivized testnet programs for dApp developers
+- Conduct thorough security audits
+- Implement mainnet-specific features and configurations
+- Launch Opus Mainnet
+- Introduce governance mechanisms for community involvement
+
+## Additional Development
+In addition to spinning up the testnet rollup. I also attempted working on OP Stack health dashboard tooling. The link to the dashboard design can be found [here](https://www.figma.com/design/610NMqJ4R9A0upp8jMqSK5/SuperchainList-Dashboard?node-id=9-1844&t=GGj34D6zHBXPjhNR-0) and the link to the dashboard repo can be found [here](https://github.com/gconnect/superchainlist).
+
