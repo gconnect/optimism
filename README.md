@@ -42,7 +42,7 @@ Here are the testnet info:
 
 I initially deployed using the default chain 42069 and later made some modifications to the deploy contract and the getting started script added my own network with this chainId 81423.
 
-The `genesis.json` and  `rollup.json` files are available in `op-node` directory.
+The `genesis.json` and  `rollup.json` files are available in [opus-config](./opus-config/) directory.
 
 ## How to Run and Interact with the Opus Testnet Locally
 
@@ -93,6 +93,10 @@ Run the EL client
   --l1=$L1_RPC_URL \
   --l1.rpckind=$L1_RPC_KIND
 ```
+
+## Tutorial Guide
+Incase you run into any issues while setting the clients up you can check this tutorial [guide](https://docs.optimism.io/builders/chain-operators/tutorials/create-l2-rollup#start-op-geth).
+It was a great resource for spinning up the testnet rollup.
 
 ## Future Plans
 
